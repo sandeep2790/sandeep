@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sandeep2790
-- 👀 I’m interested in n
-- 🌱 I’m currently learning a
-- 💞️ I’m looking to collaborate on dp
+- 👀 I’m interested in cloud security
+- 🌱 I’m currently learning cloud platforms.
 - 📫 How to reach me kumar.sandeep2790@gmail.com
 
 <!---
